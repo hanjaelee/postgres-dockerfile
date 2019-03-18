@@ -1,2 +1,2 @@
-FROM postgres:11.1
-MAINTAINER Jay Lee <jay@jayhanjaelee.com>
+FROM postgres:11.2
+MAINTAINER Jay Lee <jay@hanjaelee.com>
