@@ -1,4 +1,4 @@
-FROM postgres:11.2
+FROM postgres:11.3
 MAINTAINER Jay Lee <jay@hanjaelee.com>
 
 RUN apt-get update && \
